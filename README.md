@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ana Iarajuli</h1>
-<h3 align="center">Backend developer from Georgia</h3>
+<h3 align="center">Python Backend developer from Georgia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ana-iarajuli&label=Profile%20views&color=0e75b6&style=flat" alt="ana-iarajuli" /> </p>
 
-- 🔭 I’m currently working on [Articles Blog](https://github.com/Ana-Iarajuli/alpha_blog)
-
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently learning **Odoo**
 
 - 📫 How to reach me **anna.iarajuli@gmail.com**
 
