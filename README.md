@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ana-iarajuli&label=Profile%20views&color=0e75b6&style=flat" alt="ana-iarajuli" /> </p>
 
-- 🌱 I’m currently learning **Odoo**
+- 🌱 I’m currently learning **Django**
 
 - 📫 How to reach me **anna.iarajuli@gmail.com**
 
