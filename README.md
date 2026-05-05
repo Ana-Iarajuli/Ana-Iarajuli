@@ -13,9 +13,4 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ana-iarajuli-5bb26a1b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ana-iarajuli-5bb26a1b7/" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ana-iarajuli&show_icons=true&theme=dark&locale=en&layout=compact" alt="ana-iarajuli" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ana-iarajuli&show_icons=true&theme=dark&locale=en" alt="ana-iarajuli" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ana-iarajuli&theme=dark" alt="ana-iarajuli" /></p>
 
